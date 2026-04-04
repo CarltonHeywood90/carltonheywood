@@ -9,12 +9,12 @@ I build high-performance digital infrastructure that solves real-world business 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Sovereign](https://github.com/carltonheywood/d2c-band-app-demo)** | D2C SaaS for musicians to own their fan data and revenue. | Next.js, Supabase, Stripe |
-| **[Aligned West](https://github.com/carltonheywood/aligned-west-chiro)** | HIPAA-compliant migration & EHR integration for healthcare. | Next.js, Tailwind, Compliance |
-| **[Tru Balance](https://github.com/carltonheywood/tru-balance)** | Technical debt recovery and influencer brand-alignment. | React, Square API, Refactoring |
-| **[BHRD Hub](https://github.com/carltonheywood/brutalhonestyrelentlessdrive)** | Multimedia storefront optimized for "Instant Load" performance. | Vanilla JS, HTML/CSS, Lazy-Loading |
-| **[Music Theory Match](https://github.com/carltonheywood/music-theory-game)** | Gamified theory recognition engine for professional musicians. | React, State Logic, Gamification |
-| **[Heywood Dev](https://github.com/carltonheywood/heywood-dev)** | Professional storefront & consultation booking engine. | Next.js, Cloudflare Pages |
+| **[Sovereign](https://github.com/CarltonHeywood90/d2c-band-app-demo)** | D2C SaaS for musicians to own their fan data and revenue. | Next.js, Supabase, Stripe |
+| **[Aligned West](https://github.com/CarltonHeywood90/aligned-west-chiro-demo)** | HIPAA-compliant migration & EHR integration for healthcare. | Next.js, Tailwind, Compliance |
+| **[Tru Balance](https://github.com/CarltonHeywood90/tru-balance-3-24-2026)** | Technical debt recovery and influencer brand-alignment. | React, Square API, Refactoring |
+| **[BHRD Hub](https://github.com/CarltonHeywood90/brutalhonestyrelentlessdrive)** | Multimedia storefront optimized for "Instant Load" performance. | Vanilla JS, HTML/CSS, Lazy-Loading |
+| **[Music Theory Match](https://github.com/CarltonHeywood90/theory-game-web-app)** | Gamified theory recognition engine for professional musicians. | React, State Logic, Gamification |
+| **[Heywood Dev](https://github.com/CarltonHeywood90/heywood-dev)** | Professional storefront & consultation booking engine. | Next.js, Cloudflare Pages |
 
 ---
 
