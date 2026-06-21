@@ -1,39 +1,43 @@
-# Hi, I'm Carlton Heywood 👋
-### Full-Stack Developer | IT Management Specialist | Audio Engineer
+# ⚡ CARLTON LEVI HEYWOOD | Full-Stack & Systems Developer
 
-I build high-performance digital infrastructure that solves real-world business problems. From HIPAA-compliant healthcare migrations to B2B SaaS prototypes, my focus is on **scalability, security, and superior UI/UX.**
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Sovereign](https://github.com/CarltonHeywood90/d2c-band-app-demo)** | D2C SaaS for musicians to own their fan data and revenue. | Next.js, Supabase, Stripe |
-| **[Aligned West](https://github.com/CarltonHeywood90/aligned-west-chiro-demo)** | HIPAA-compliant migration & EHR integration for healthcare. | Next.js, Tailwind, Compliance |
-| **[Tru Balance](https://github.com/CarltonHeywood90/tru-balance-3-24-2026)** | Technical debt recovery and influencer brand-alignment. | React, Square API, Refactoring |
-| **[BHRD Hub](https://github.com/CarltonHeywood90/brutalhonestyrelentlessdrive)** | Multimedia storefront optimized for "Instant Load" performance. | Vanilla JS, HTML/CSS, Lazy-Loading |
-| **[Music Theory Match](https://github.com/CarltonHeywood90/theory_game_web_app)** | Gamified theory recognition engine for professional musicians. | React, State Logic, Gamification |
-| **[Heywood Dev](https://github.com/CarltonHeywood90/heywood-dev)** | Professional storefront & consultation booking engine. | Next.js, Cloudflare Pages |
+I build stable, self-hosted infrastructure, automate developer workflows, and design robust full-stack applications from the ground up. My focus is on architectural efficiency, clean data parsing, and systems that execute reliably under the hood.
 
 ---
 
-## 🛠 Technical Toolkit
+### 💻 Core Tech Stack
 
-*   **Frontend:** Next.js, React, Tailwind CSS, TypeScript
-*   **Backend:** Node.js, Python, Supabase, PostgreSQL
-*   **DevOps:** Cloudflare Pages, Vercel, GitHub Actions, IT Infrastructure Management
-*   **Creative:** Professional Audio Engineering, iZotope RX8 Restoration, Music Composition
-
----
-
-## 📈 Connect with Me
-
-- 💼 **Professional Site:** [heywooddev.com](https://heywood-dev.pages.dev)
-- 📅 **Book a Consultation:** [Calendly](https://calendly.com/cjwood1/30min)
-- 🎵 **Creative Portfolio:** [Brutal Honesty Relentless Drive](https://brutalhonestyrelentlessdrive.com)
+*   **Languages:** Python, JavaScript (ES6+), HTML5, CSS3 / Tailwind
+*   **Backend & APIs:** FastAPI, Node.js, RESTful APIs
+*   **Database & BaaS:** Supabase, PostgreSQL, SQL
+*   **DevOps & Systems:** Ubuntu Server, Docker, Nginx, Git/Version Control, Tailscale/Headscale Mesh VPNs
+*   **Deployment:** Vercel, AWS Services
 
 ---
 
-### My Philosophy
-"I don't just write code; I perform rescue missions for broken digital assets and build sovereign foundations for growing businesses."
+### 🛠️ Featured Production Projects
+
+#### 🎵 Personal Media Streaming App
+*   **Description:** A custom, full-stack personal media streaming server designed for offline capability and seamless local data parsing.
+*   **Stack:** Python, FastAPI, Service Workers (for advanced client-side caching/airplane mode functionality).
+*   **Key Achievement:** Engineered offline-first reliability, ensuring smooth media playback and background synchronization without an active external network connection.
+
+#### ⚙️ Vanilla Project Scaffolder
+*   **Description:** A custom desktop automation tool built to instantly spin up structured MVC web projects, eliminating repetitive configuration.
+*   **Stack:** Python, Tkinter.
+*   **Key Achievement:** Accelerated personal development velocity by automating boilerplate architecture creation, directory mapping, and environment isolation.
+
+#### 🌐 Web Production & Organic SEO Engines
+*   **Description:** End-to-end development, deployment, and organic search optimization for live commercial web platforms.
+*   **Stack:** Semantic HTML5, CSS, Vercel, Supabase, Google Search Console.
+*   **Key Achievement:** Diagnosed indexing bottlenecks and refactored on-page content strategies to secure Top 10 organic search rankings for targeted high-value search terms.
+
+---
+
+### 📊 Ecosystem & Philosophy
+
+```txt
+[ Systems & Infrastructure ] ──► Ubuntu Server + Docker Containers
+                                      │
+[ API / Backend Layers ]     ──► FastAPI / Python Automation
+                                      │
+[ Secure Mesh Network ]      ──► Tailscale / Headscale VPN Isolation
